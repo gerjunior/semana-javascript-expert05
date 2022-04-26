@@ -1,4 +1,4 @@
-import fs from 'fs'
+import fs from 'node:fs'
 import prettyBytes from 'pretty-bytes'
 
 export default class FileHelper {
